@@ -112,3 +112,7 @@ When a finding has been resolved (implemented, accepted as won't-fix, or superse
 | 3 | Add `[ESCALATION CANDIDATE]` flag + warn in completion comment |
 | 4+ | Auto-create Paperclip issue (unless one is already `in_progress`/`blocked`) |
 | Any | Remove from log once resolved |
+
+---
+
+*TEC Custom Skill — maintained by the Deltek Technical Services Engineering team.*
